@@ -5,7 +5,7 @@ strong fundamentals using number-based problems.
 
 ## Folder Structure
 
-### concept_practice
+### python_concept_practice
 Programs written while learning core Python concepts:
 - if-else
 - for loop
@@ -13,6 +13,15 @@ Programs written while learning core Python concepts:
 - functions
 
 All programs are based on integer logic and beginner-friendly.
+
+### python_100_numeric_programs
+A structured collection of 100 numeric programming problems.
+Programs are numbered to track learning progress and consistency.
+
+Progress:
+- Completed: 004 / 100
+- In progress 🚀
+
 
 ## Purpose
 To strengthen Python fundamentals and logical thinking,
