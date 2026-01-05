@@ -16,9 +16,9 @@ def divide_numbers(a,b):
 
 num1 = int(input('Enter first number: '))
 num2 = int(input('Enter second number: '))
-quotient = divide_numbers(num1,num2)
+result = divide_numbers(num1,num2)
 
-if quotient is None:
+if result is None:
     print('Division by zero not allowed')
 else:
-    print(f'The Quotient is {quotient}')
+    print(f'The result is {result}')
