@@ -19,7 +19,7 @@ A structured collection of 100 numeric programming problems.
 Programs are numbered to track learning progress and consistency.
 
 Progress:
-- Completed: 020 / 100
+- Completed: 028 / 100
 - In progress 🚀
 
 
