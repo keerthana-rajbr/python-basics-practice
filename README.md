@@ -9,6 +9,7 @@ A structured Python programming practice repository focused on developing strong
 ```
 python_basics_practice/
 │
+├─ python_concept_practice/         → basics (if/else, loops, functions)
 ├─ python_numeric_100_programs/     → arithmetic & logical exercises
 ├─ python_strings_50_programs/      → text processing & manipulation
 ├─ python_lists_50_programs/        → sequences, iteration & transformations
