@@ -7,7 +7,7 @@ A structured Python programming practice repository focused on developing strong
 ## 📁 **Repository Structure**
 
 ```
-python_basics_practice/
+python_fundamentals/
 │
 ├─ python_concept_practice/         → basics (if/else, loops, functions)
 ├─ python_numeric_100_programs/     → arithmetic & logical exercises
